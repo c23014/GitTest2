@@ -1,2 +1,2 @@
 # GitTest2
-練習用(田村)
+GitTest.h1
